@@ -2,7 +2,7 @@
   <div>
     <form v-on:submit.prevent="submitForm">
       <div>
-        <label for="username">ID:</label>
+        <label for="username">IDtest:</label>
         <input
           id="username"
           type="text"
